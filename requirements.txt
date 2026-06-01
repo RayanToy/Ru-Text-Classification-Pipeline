@@ -1,0 +1,26 @@
+# Сбор данных (Парсинг и API)
+requests
+beautifulsoup4
+pyrogram
+tgcrypto
+nest-asyncio
+
+# Работа с данными
+pandas
+numpy
+
+# Обработка естественного языка (NLP)
+nltk
+pymorphy3
+wordcloud
+matplotlib
+
+# Классическое машинное обучение
+scikit-learn
+
+# Глубокое обучение и Transformers
+torch
+transformers
+
+# Вспомогательные утилиты
+tqdm
